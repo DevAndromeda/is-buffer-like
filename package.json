@@ -1,0 +1,25 @@
+{
+  "name": "is-buffer-like",
+  "version": "1.0.0",
+  "description": "Checks if the given source is buffer-like",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAndromeda/is-buffer-like.git"
+  },
+  "keywords": [
+    "is-buffer",
+    "is-buffer-like",
+    "buffer-like",
+    "buffer",
+    "check-buffer"
+  ],
+  "author": "DevAndromeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevAndromeda/is-buffer-like/issues"
+  },
+  "homepage": "https://github.com/DevAndromeda/is-buffer-like#readme"
+}
